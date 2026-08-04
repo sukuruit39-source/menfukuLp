@@ -45,10 +45,12 @@ section{padding:72px 0;}
 }
 
 /* HERO */
+/*
 .hero{
   background:linear-gradient(180deg,var(--moss) 0%, var(--moss-dark) 100%);
   color:#fff;padding:100px 0 90px;
 }
+*/
 .hero .eyebrow{color:#CFE0D3;}
 .hero h1{
   font-size:40px;line-height:1.55;margin:0 0 22px;font-weight:700;
