@@ -48,11 +48,11 @@ section{padding:72px 0;}
 .hero{
   background-image: url("jpFX9ZLF.jpg");
 }
-.hero .eyebrow{color:black;}
+.hero .eyebrow{color:#002200;}
 .hero h1{
   font-size:40px;line-height:1.55;margin:0 0 22px;font-weight:700;
 }
-.hero p{font-size:16px;color:black;max-width:520px;margin:0 0 34px;}
+.hero p{font-size:16px;color:#002200;max-width:520px;margin:0 0 34px;}
 
 /* SYMPATHY */
 .sympathy{background:var(--paper);}
