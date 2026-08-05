@@ -45,9 +45,11 @@ section{padding:72px 0;}
 }
 
 /* HERO */
+/*
 .hero{
-  /*background-image: url("jpFX9ZLF.jpg");*/
+  background-image: url("jpFX9ZLF.jpg");
 }
+*/
 .hero .eyebrow{color:#002200;}
 .hero h1{
   font-size:40px;line-height:1.55;margin:0 0 22px;font-weight:700;
