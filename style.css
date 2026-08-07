@@ -53,7 +53,7 @@ section{padding:72px 0;}
 .hero h1{
   font-size:40px;line-height:1.55;margin:0 0 22px;font-weight:700;
 }
-.hero p{font-size:16px;color:#002200;max-width:520px;margin:0 0 34px;padding:30;background-color:white;}
+.hero p{font-size:16px;color:#228B22;max-width:520px;margin:0 0 34px;}
 
 /* SYMPATHY */
 .sympathy{background:var(--paper);}
