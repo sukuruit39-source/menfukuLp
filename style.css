@@ -51,9 +51,9 @@ section{padding:72px 0;}
 }
 .hero .eyebrow{color:#002200;}
 .hero h1{
-  font-size:40px;line-height:1.55;margin:0 0 22px;font-weight:700;background-color:white;
+  font-size:40px;line-height:1.55;margin:0 0 22px;font-weight:700;
 }
-.hero p{font-size:16px;color:#002200;max-width:520px;margin:0 0 34px;background-color:white;}
+.hero p{font-size:16px;color:#002200;max-width:520px;margin:0 0 34px;padding:10;background-color:white;}
 
 /* SYMPATHY */
 .sympathy{background:var(--paper);}
