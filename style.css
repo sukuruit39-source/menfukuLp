@@ -51,7 +51,7 @@ section{padding:72px 0;}
 }
 .hero .eyebrow{font-size:18px;color:white;-webkit-text-stroke:0.7px #002200;}
 .hero h1{
-  font-size:40px;color:#002200;-webkit-text-stroke:0.3px white;line-height:1.55;margin:0 0 22px;font-weight:700;
+  font-size:40px;font-weight:500;color:#002200;-webkit-text-stroke:0.3px white;line-height:1.55;margin:0 0 22px;font-weight:700;
 }
 .hero p{font-size:18px;font-weight:700;color:white;-webkit-text-stroke:0.7px #002200;max-width:520px;margin:0 0 34px;}
 
