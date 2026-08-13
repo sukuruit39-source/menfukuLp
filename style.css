@@ -49,6 +49,14 @@ section{padding:72px 0;}
   background-image: url("menfukuLphero2.jpg");
   background-size:auto;
 }
+
+.hero .wrap{
+  background-color: white;
+  opacity: 0.5;
+  padding:5px;
+  border:radious;
+}
+
 .hero .eyebrow{font-size:18px;color:#002200;-webkit-text-stroke:0.3px white;}
 .hero h1{
   font-size:40px;font-weight:500;color:#002200;-webkit-text-stroke:0.3px white;line-height:1.55;margin:0 0 22px;font-weight:700;
