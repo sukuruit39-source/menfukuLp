@@ -51,16 +51,17 @@ section{padding:72px 0;}
 }
 
 .hero .wrap{
-  background-color: rgba(0,0,0,0.5);
-  padding:5px;
+  background-color: rgba(100,100,100,0.5);
+  padding:20px;
+  width:520px;
   border:radious;
 }
 
-.hero .eyebrow{font-size:18px;color:#002200;-webkit-text-stroke:0.3px white;}
+.hero .eyebrow{font-size:18px;color:#002200;}
 .hero h1{
-  font-size:40px;font-weight:500;color:#002200;-webkit-text-stroke:0.3px white;line-height:1.55;margin:0 0 22px;font-weight:700;
+  font-size:40px;font-weight:500;color:#002200;line-height:1.55;margin:0 0 22px;font-weight:700;
 }
-.hero p{font-size:18px;font-weight:700;color:#002200;-webkit-text-stroke:0.3px white;max-width:520px;margin:0 0 34px;}
+.hero p{font-size:18px;font-weight:700;color:#002200;max-width:520px;margin:0 0 34px;}
 
 /* SYMPATHY */
 .sympathy{background:var(--paper);}
