@@ -53,6 +53,7 @@ section{padding:72px 0;}
 }
 
 .hero .wrap{
+  margin-left:-100px;
   background-color: rgba(254,254,254,0.5);
   padding:20px;
   width:520px;
