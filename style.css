@@ -92,6 +92,8 @@ section{padding:72px 0;}
 .strengths h2{font-size:24px;margin:0 0 36px;}
 .strength-grid{display:flex;justify-content:space-between;}
 .strength-card{
+  width:auto;
+  height:100px;
   background:var(--bg);border-radius:8px;padding:20px 16px;
 }
 .strength-num{font-size:12px;color:var(--ochre-dark);font-weight:700;letter-spacing:.08em;}
