@@ -60,7 +60,7 @@ section{padding:72px 0;}
   border:radious;
 }
 
-.hero .eyebrow{font-size:18px;color:#002200;}
+.hero .eyebrow{display:flex;justify-content:center;font-size:18px;color:#002200;}
 .hero h1{
   font-size:40px;font-weight:500;color:#002200;line-height:1.55;margin:0 0 22px;font-weight:700;
 }
