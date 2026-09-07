@@ -90,7 +90,7 @@ section{padding:72px 0;}
 
 /* STRENGTHS */
 /*.strengths{background:var(--paper);}*/
-.strengths{background:url("p0118_m.jpg");}
+.strengths{background-image:url("p0118_m.jpg");}
 .strengths h2{font-size:24px;margin:0 0 36px;}
 .strength-grid{display:flex;flex-wrap:wrap;justify-content:space-between;}
 .strength-card{
