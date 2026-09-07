@@ -53,11 +53,11 @@ section{padding:72px 0;}
 }
 
 .hero .wrap{
-  display:flex;flex-wrap:wrap;
   background-color: rgba(254,254,254,0.5);
   padding:20px;
   width:520px;
   height:480px;
+  max-width:100%;
   border:radious;
 }
 
@@ -91,7 +91,7 @@ section{padding:72px 0;}
 /* STRENGTHS */
 .strengths{background:var(--paper);}
 .strengths h2{font-size:24px;margin:0 0 36px;}
-.strength-grid{display:flex;justify-content:space-between;}
+.strength-grid{display:flex;flex-wrap:wrap;justify-content:space-between;}
 .strength-card{
   width:200px;
   height:auto;
