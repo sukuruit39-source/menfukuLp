@@ -21,6 +21,7 @@ body{
   font-family:'Zen Kaku Gothic New', sans-serif;
   line-height:1.8;
 }
+
 h1,h2,h3,.serif{font-family:'Shippori Mincho', serif;}
 a{color:inherit;}
 .wrap{max-width:920px;margin:0 auto;padding:0 24px;}
@@ -116,7 +117,7 @@ section{padding:72px 0;}
 .persona-cta{text-align:center;margin-top:36px;}
 
 /* FLOW - the signature path element */
-/*.flow{background:var(--paper);}*/
+.flow{background:var(--paper);}
 .flow h2{font-size:24px;margin:0 0 44px;text-align:center;}
 .path{position:relative;padding-left:34px;}
 .path::before{
