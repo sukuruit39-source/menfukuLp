@@ -14,6 +14,7 @@
 *{box-sizing:border-box;}
 body{
   background-image: url("bg2.jpg");
+  background-size:cover;
   margin:0;
   background-color:#FFFFCC;
   color:var(--ink);
