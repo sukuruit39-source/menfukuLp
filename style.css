@@ -36,7 +36,7 @@ a{color:inherit;}
   box-shadow:0 3px 0 var(--ochre-dark);
 }
 .btn.ghost{
-  background:transparent;color:var(--moss-dark);
+  background:transparent;color:var(--ochre-dark);
   border:1.5px solid var(--moss-dark);box-shadow:none;
 }
 .btn-row{display:flex;gap:16px;flex-wrap:wrap;}
