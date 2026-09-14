@@ -73,7 +73,7 @@ section{padding:72px 0;}
 
 /* SYMPATHY */
 /*.sympathy{background:var(--paper);}*/
-.sympathy h2{font-size:24px;margin:0 0 30px;-webkit-text-stroke:1px ##FFFFFF;}
+.sympathy h2{font-size:24px;-webkit-text-stroke:3px ##FFFFFF;margin:0 0 30px;}
 .sympathy ul{list-style:none;margin:0;padding:0;display:grid;gap:14px;}
 .sympathy li{
   font-size:16px;padding:16px 20px;background:var(--bg);
@@ -146,7 +146,7 @@ section{padding:72px 0;}
 */
 
 /* STAFF 
-/*.staff{background:var(--paper);}*/
+/*.staff{background:var(--paper);}
 .staff h2{font-size:24px;margin:0 0 30px;}
 .staff-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
 .staff-card{text-align:center;}
